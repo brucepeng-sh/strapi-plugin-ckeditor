@@ -1,6 +1,6 @@
 {
-  "name": "@ckeditor/strapi-plugin-ckeditor",
-  "version": "0.0.7",
+  "name": "@brucep/strapi-plugin-ckeditor",
+  "version": "0.0.8",
   "description": "CKEditor 5 custom field for Strapi.",
   "strapi": {
     "name": "ckeditor",
@@ -64,10 +64,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/strapi-plugin-ckeditor.git"
+    "url": "https://github.com/brucep/strapi-plugin-ckeditor.git"
   },
-  "author": "CKSource (http://cksource.com/)",
-  "homepage": "https://market.strapi.io/plugins/@ckeditor-strapi-plugin-ckeditor",
+  "author": "brucep",
   "engines": {
     "node": ">=14.19.1 <=18.x.x",
     "npm": ">=6.0.0"
